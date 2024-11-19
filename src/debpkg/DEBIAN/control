@@ -1,0 +1,8 @@
+Package: vcool
+Version: 1.1
+Section: base
+Architecture: arm64
+Maintainer: support@uugear.com
+Installed-Size: 25
+Depends: libgpiod-dev (>=1.6.2)
+Description: Vivid Unit cooler panel software.
